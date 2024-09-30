@@ -1,0 +1,7 @@
+PS C:\Users\Lenovo\Desktop\fitness_gym> npx create-react-app ./
+
+PS C:\Users\Lenovo\Desktop\fitness_gym> npm install --legacy-peer-deps
+
+Run the project
+
+npm start
